@@ -1,0 +1,16 @@
+{
+  "name": "st4r-666ax",
+  "version": "0.1.0",
+  "description": "ST4R-666AX — clean-room real-time-strategy core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
